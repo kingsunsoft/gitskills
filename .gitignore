@@ -1,0 +1,6 @@
+*.pyc
+*.tar.gz
+*/*/*.pyc
+.idea/
+.phpstorm.meta.php
+
